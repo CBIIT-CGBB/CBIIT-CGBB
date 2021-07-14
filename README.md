@@ -1,4 +1,5 @@
-### Current projects are OmicPath, GCluster, gcMECM, scCorr, OmicCircos2 and NCIRASPathway
+### Current projects are OmicPath, GCluster, gcMECM, scCorr, OmicCircos2 and NCIRASPathway.
+...
 
 <!---
 - 👋 Hi, I’m @CBIIT-CGBB
